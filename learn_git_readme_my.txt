@@ -1,5 +1,3 @@
-git is a version controler
-git is a free soft
-:wq
-:
+this is a readme txt 
+for my frist learn git and github
 
